@@ -1,2 +1,5 @@
-# api-querying-documentation
-Documentation on querying various API's
+# Data API How-To's
+
+[Yelp Fusion][1]
+
+[1]: ./yelp-fusion-howto.md
