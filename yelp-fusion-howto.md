@@ -16,4 +16,4 @@
         - *client_secret*
     - ![Authentication Token Retrieval POST Request](./screenshots/postman-authentication-request.png)
 4. After you send the POST Request, see the value in the body for the key *access_token*.
-    - - ![Authentication Token Retrieval POST Request](./screenshots/postman-authentication-request.png)
+    - ![Authentication Token Retrieval POST Request](./screenshots/postman-authentication-request.png)
